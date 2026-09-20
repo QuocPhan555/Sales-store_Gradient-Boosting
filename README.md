@@ -62,7 +62,7 @@ rossmann-sales-forecasting/
 ## Install and Run
 
 ```bash
-git clone https://github.com/<QuocPhan555>/Sales-store_Gradient-Boosting.git
+git clone https://github.com/QuocPhan555/Sales-store_Gradient-Boosting.git
 cd Sales-store_Gradient-Boosting
 ```
 
@@ -70,7 +70,7 @@ cd Sales-store_Gradient-Boosting
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost opendatasets jupyter
 ```
 
-Download the dataset from [Kaggle](https://www.kaggle.com/c/rossmann-store-sales/data) or get it from my main, place `train.csv`, `store.csv`, and `test.csv` in `rossmann-store-sales/`, then:
+Download the dataset from [Kaggle](https://www.kaggle.com/c/rossmann-store-sales/data) or get zip file from my main, place `train.csv`, `store.csv`, and `test.csv` in `rossmann-store-sales/`, then:
 
 ```bash
 jupyter notebook ApproachML.ipynb
